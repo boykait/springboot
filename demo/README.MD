@@ -3,4 +3,4 @@
 
 .. note ::
    
-   构建基于gradle+springboot基础项目
+   构建基于gradle+springboot基础项目 
